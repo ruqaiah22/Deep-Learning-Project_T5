@@ -5,7 +5,7 @@ Emotions play a huge part in human experience, and several times, they affect ou
 
 
 ## Objectives:
-The goal of this project is to build a Convolutional Neural Network (CNN) model that uses the dataset images to determent the correct emotion type of a person face. 
+The goal of this project is to build a Convolutional Neural Network (CNN) model that uses the dataset images to determine the correct emotion type of a person face. 
 
 
 ## Data Description:
