@@ -1,4 +1,4 @@
-# Facial Emotion Recognition 
+# Facial Emotion Recognition in job interviews
 
 ![Picture](http://www.auposcn.com/upfile/2019/07/20190704130522_188.jpg)
 
@@ -7,7 +7,7 @@ Emotions play a huge part in human experience, and several times, they affect ou
 
 
 ## Objectives:
-The idea of this project is to use facial emotion recognition on job interviews. Companies can use this technology to screen prospective candidates based on some factors like body language and mood. Therefore, they will be able to find the person whose personality and characteristics are best suited to the job. The goal is to build a Convolutional Neural Network (CNN) model that uses the dataset images to determine the correct emotion type of a person face
+The idea of this project is to use facial emotion recognition on job interviews. Companies can use this technology to screen prospective candidates based on some factors like body language and mood. Therefore, they will be able to find the person whose personality and characteristics are best suited to the job. The goal is to build a Convolutional Neural Network (CNN) model that uses the dataset images to determine the correct emotion type of a person face.
 
 
 ## Data Description:
