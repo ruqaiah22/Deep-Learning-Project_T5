@@ -1,4 +1,3 @@
-![](https://academy.sdaia.gov.sa/assets/images/academy-logo.png)
 ##  Deep Learning Project
 #   Facial Emotion Recognition in job interviews
 
