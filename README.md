@@ -1,4 +1,7 @@
-![Picture](https://new-24.net/wp-content/uploads/2021/07/60f9f29c97a75.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://new-24.net/wp-content/uploads/2021/07/60f9f29c97a75.png)
+
 
 #           Facial Emotion Recognition in job interviews
 
