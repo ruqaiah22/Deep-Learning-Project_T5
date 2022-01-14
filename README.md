@@ -1,8 +1,6 @@
-
-![........................................](https://new-24.net/wp-content/uploads/2021/07/60f9f29c97a75.png)
-
-##  Deep Learning Projecr
-#     Facial Emotion Recognition in job interviews
+![](https://new-24.net/wp-content/uploads/2021/07/60f9f29c97a75.png)
+##  Deep Learning Project
+#     [ Facial Emotion Recognition in job interviews ]
 
 ![Picture](http://www.auposcn.com/upfile/2019/07/20190704130522_188.jpg)
 
