@@ -1,5 +1,6 @@
 ##  Deep Learning Project
 #   Facial Emotion Recognition in job interviews
+### T5-Bootcamp-SDAIA
 
 ![Picture](http://www.auposcn.com/upfile/2019/07/20190704130522_188.jpg)
 
@@ -30,6 +31,11 @@ The dataset is from Kaggle [(link)](https://www.kaggle.com/msambare/fer2013). It
 * pyLDAvis
 * Warnings
 * nltk
+* cv2
+* tensorflow
+* pydot
+* graphviz
+* csv
 
 
 ## Tools:
